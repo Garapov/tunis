@@ -652,7 +652,7 @@ svg{
 	align-items: flex-start;
 	padding-right: 0;
 	padding-bottom: 3em;
-	margin-left: 28em;
+	/* margin-left: 28em; */
 }
 .sec4__midImg{
 	width: 56.625em;
@@ -688,7 +688,7 @@ svg{
 	justify-content: space-between;
 	align-items: flex-start;
 	padding-right: 0;
-	margin-left: 20em;
+	/* margin-left: 20em; */
 }
 .sec4__bottomImgWrap{
 	flex-shrink: 0;
