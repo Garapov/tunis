@@ -421,12 +421,12 @@ svg{
 	letter-spacing: 0.019em;
 	margin-bottom: 1.35em;
 	color: #626262;
-	max-width: 25.3em;
+	max-width: 32em;
 }
 .sec1__img{
 	flex-shrink: 0;
 	width: 44.3125em;
-	margin-top: 2.5em;
+	margin-top: 0;
 }
 .sec2{
 	width: 100%;
